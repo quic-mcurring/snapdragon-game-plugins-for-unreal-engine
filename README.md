@@ -51,7 +51,7 @@ More information can be found at https://github.com/quic/snapdragon-gsr
 | [5.3](https://github.com/quic/snapdragon-game-plugins-for-unreal-engine/tree/engine/5.3/Plugins/SNPE) | [5.4](https://github.com/quic/snapdragon-game-plugins-for-unreal-engine/tree/engine/5.4/Plugins/SNPE) |
 |------|------|
 
-Plugin for Neural Network Inference using the Qualcomm™ Neural Processing SDK (also known as SNPE) to be used with Unreal Engine's Neural Network Engine (NNE) inference framework.
+Plugin for Neural Network Inference using the Qualcomm™ Neural Processing SDK (also known as SNPE).
 
 This plugin enables hardware acceleration of AI model inference on devices with Qualcomm® Hexagon™ Processors.
 
