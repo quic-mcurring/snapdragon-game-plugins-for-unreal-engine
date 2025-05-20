@@ -2,7 +2,7 @@
 
 ### Table of contents
 - [Snapdragon™ Game Plugins for Unreal Engine](#snapdragon-game-plugins-for-unreal-engine)
-	- [Table of contents](#table-of-contents)
+		- [Table of contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Usage Instructions](#usage-instructions)
 - [List of Plugins](#list-of-plugins)
@@ -48,8 +48,8 @@ For more information about the upscaler (and standalone shaders), please take a 
 ## Snapdragon™ Game Super Resolution 2
 
 *Available Engine Versions:*
-| [4.27](https://github.com/quic/snapdragon-game-plugins-for-unreal-engine/tree/engine/4.27/Plugins/SGSR2) | [5.1](https://github.com/quic/snapdragon-game-plugins-for-unreal-engine/tree/engine/5.1/Plugins/SGSR2) | [5.2](https://github.com/quic/snapdragon-game-plugins-for-unreal-engine/tree/engine/5.2/Plugins/SGSR2) | [5.4](https://github.com/quic/snapdragon-game-plugins-for-unreal-engine/tree/engine/5.4/Plugins/SGSR2) | 
-|------|-----|-----|-----|
+| [4.27](https://github.com/quic/snapdragon-game-plugins-for-unreal-engine/tree/engine/4.27/Plugins/SGSR2) | [5.1](https://github.com/quic/snapdragon-game-plugins-for-unreal-engine/tree/engine/5.1/Plugins/SGSR2) | [5.2](https://github.com/quic/snapdragon-game-plugins-for-unreal-engine/tree/engine/5.2/Plugins/SGSR2) | [5.4](https://github.com/quic/snapdragon-game-plugins-for-unreal-engine/tree/engine/5.4/Plugins/SGSR2) | [5.5](https://github.com/quic/snapdragon-game-plugins-for-unreal-engine/tree/engine/5.5/Plugins/SGSR2) |
+|------|-----|-----|-----|-----|
 
 <img src="media/sgsr2_hero_image.png" width="720px" >
 <br>
